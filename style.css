@@ -46,6 +46,7 @@ body {
 #main-content {
     background-color: var(--secondary-bg-color);
     padding: 1.25rem;
+    margin: 0 1.5rem;
 }
 
 .section-header {
@@ -59,4 +60,12 @@ body {
 
 .container {
     padding: 0 2rem;
+}
+
+.section-img {
+    border: solid white;
+    border-width: 2px 0;
+    padding: 1rem;
+    margin: .8rem 0;
+    width: 320px;
 }
